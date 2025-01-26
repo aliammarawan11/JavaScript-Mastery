@@ -1,17 +1,17 @@
 // for(let i=1; i<=10; i++) {
-//     console.log("babbar");
+//     console.log("Ali");
 // }
 
 // let i = 1;
 // do{
-//     console.log("babbar");
+//     console.log("Ali");
 //     //updation
 //     i++;
 // }while(i<=10);
 
 // let i = 1;
 // while(i <= 10) {
-//     console.log("babbar");
+//     console.log("Ali");
 //     i++;
 // }
 
@@ -78,17 +78,17 @@
 // }
 
 // let firstName = "Love";
-// let lastName = 'Babbar';
+// let lastName = 'Ali';
 
 // let name = `Love 
-// Babbar This is
+// Ali This is
 // my 
 // Name
 // hello`;
 
 // console.log(name);
 
-// let firstName = new String("Love babbar");
+// let firstName = new String("Love Ali");
 // console.log(firstName);
 
 // let op1 = 'English ';
@@ -105,7 +105,7 @@
 // console.log(op1.toUpperCase());
 // console.log(op2.toLowerCase())
 
-// let str = "Babbar";
+// let str = "Ali";
 // console.log(str.substring(2,4));
 
 //console.log(str.substring(2));
