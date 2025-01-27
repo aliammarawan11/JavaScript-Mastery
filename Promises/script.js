@@ -4,7 +4,7 @@
 // let firstPromise = new Promise( (resolve, reject) => {
 
 //     setTimeout(function sayMyName() {
-//         console.log("My Name is Love babbar");
+//         console.log("My Name is Love Ali");
 //     }, 0);
 // } );
 
