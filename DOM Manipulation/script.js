@@ -1,7 +1,7 @@
 // let mydiv = document.querySelector('#mydiv');
 
 // let newElement = document.createElement('span');
-// newElement.textContent = "Love babbar"
+// newElement.textContent = "Love Ali"
 
 // mydiv.insertAdjacentElement('afterend', newElement);
 
